@@ -1,6 +1,6 @@
 # Face_3DMM : A python tool to play with 3DMM
 
-##Introduction
+## Introduction
 
 
 
@@ -11,7 +11,7 @@ This project can do but is not limited to ths following tasks:
 * Rendering face images from 3D mesh with different external parameter or lightings. 
 * Rendering UV map 
 
-##Structure
+## Structure
 
 ```
 Render is the main part to process 3D mesh
