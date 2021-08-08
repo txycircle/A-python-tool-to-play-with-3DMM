@@ -66,7 +66,7 @@ Generate a uv_map (left raw image,right uv map)
 Rendering face images from 3D mesh can be implemented with python, but it's too slow.
 So i use cython to accelerate it.
 
-###Usgage
+### Usgage
 * clone the repository
  ```
 git clone https://github.com/txycircle/face_3dmm
